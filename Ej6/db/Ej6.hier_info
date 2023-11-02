@@ -1,0 +1,9 @@
+|restador
+ab[0] => Mux0.IN5
+ab[0] => Mux1.IN5
+ab[1] => Mux0.IN4
+ab[1] => Mux1.IN4
+borrow <= Mux0.DB_MAX_OUTPUT_PORT_TYPE
+resta <= Mux1.DB_MAX_OUTPUT_PORT_TYPE
+
+

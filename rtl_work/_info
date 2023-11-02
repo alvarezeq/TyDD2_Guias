@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\TyDD2
+Erestador
+Z1 w1698948920
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dD:\TyDD2
+Z5 8D:/TyDD2/Ej6/restador.vhd
+Z6 FD:/TyDD2/Ej6/restador.vhd
+l0
+L4
+V;nE6e?99ePLTCmX4zmlN@2
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1698951810.749000
+Z9 !s90 -reportprogress|300|-93|-work|work|D:/TyDD2/Ej6/restador.vhd|
+Z10 !s107 D:/TyDD2/Ej6/restador.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 RE`ghmoW__e>nXfYfZC`c1
+!i10b 1
+Abehavioral
+R2
+R3
+DEx4 work 8 restador 0 22 ;nE6e?99ePLTCmX4zmlN@2
+l13
+L12
+VlJoRzl`BY46R69TT;dM293
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 @2QWb3LMB6?4Pzzz=Ec=h0
+!i10b 1
+Etb_restador
+Z13 w1698951798
+R2
+R3
+R4
+Z14 8D:/TyDD2/Ej6/tb_restador.vhd
+Z15 FD:/TyDD2/Ej6/tb_restador.vhd
+l0
+L8
+V229^B=<XM5FN>i9zj0^_[3
+!s100 K0?]>MIWfD=MSDh;bGQIe0
+R7
+31
+!i10b 1
+Z16 !s108 1698951810.811000
+Z17 !s90 -reportprogress|300|-93|-work|work|D:/TyDD2/Ej6/tb_restador.vhd|
+Z18 !s107 D:/TyDD2/Ej6/tb_restador.vhd|
+R11
+R12
+Atb_behavior
+R2
+R3
+DEx4 work 11 tb_restador 0 22 229^B=<XM5FN>i9zj0^_[3
+l25
+L10
+V3F39V<D:?iYTaHPXY[9k]2
+!s100 3DfXgzJ=5WaamE=_g7l7[0
+R7
+31
+!i10b 1
+R16
+R17
+R18
+R11
+R12
